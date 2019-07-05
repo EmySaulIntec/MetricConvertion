@@ -1,7 +1,7 @@
 
 --- Download project and contributing
    Paso 1. Clone or download the project
-   		Paso 1.1 Click en Clone or donwload @IMAGE
+   		Paso 1.1 Click en Clone or donwload ![Clone or download](https://github.com/EmySaulIntec/MetricConvertion/blob/master/Guide/p1_1.PNG)
    		Paso 2.2 Copy Https URL
    Paso 2. Install Git 
    		1. Use this url for get the guide https://www.atlassian.com/git/tutorials/install-git 
