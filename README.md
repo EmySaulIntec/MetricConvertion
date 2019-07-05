@@ -20,6 +20,7 @@ Para usar el proyecto partimos de que se tiene instalado el programa "UniversalT
  	Step 1. Click in windows key and search the program "UniversalTransalator" 
  	Step 2. Introduce the path of find the file have the metrics to convert. The file should be have the next format.
  			![Allowed format](https://github.com/EmySaulIntec/MetricConvertion/blob/master/Guide/P2_2.PNG)
+ 			
  			The allowed convertions are: 
 	 			km -> Kilometro
 	            hm -> Hectometro
