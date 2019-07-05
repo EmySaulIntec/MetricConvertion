@@ -1,0 +1,40 @@
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\obj\Debug\UniversalTranslator.T.csprojAssemblyReference.cache
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\obj\Debug\UniversalTranslator.T.csproj.CoreCompileInputs.cache
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.abstractions.dll
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.runner.reporters.net452.dll
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.runner.utility.net452.dll
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\UniversalTranslator.T.dll
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\UniversalTranslator.T.pdb
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\UniversalTranslator.exe
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.assert.dll
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.core.dll
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.execution.desktop.dll
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\UniversalTranslator.pdb
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\UniversalTranslator.exe.config
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.assert.xml
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.core.xml
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.execution.desktop.xml
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\obj\Debug\UniversalTranslator.T.csproj.CopyComplete
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\obj\Debug\UniversalTranslator.T.dll
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\obj\Debug\UniversalTranslator.T.pdb
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.abstractions.dll
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\UniversalTranslator.T.dll
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\UniversalTranslator.T.pdb
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\UniversalTranslator.exe
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.assert.dll
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.core.dll
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\UniversalTranslator.pdb
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\UniversalTranslator.exe.config
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.assert.xml
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.core.xml
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\obj\Debug\UniversalTranslator.T.csprojAssemblyReference.cache
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\obj\Debug\UniversalTranslator.T.csproj.CoreCompileInputs.cache
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\obj\Debug\UniversalTranslator.T.csproj.CopyComplete
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\obj\Debug\UniversalTranslator.T.dll
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator.T\obj\Debug\UniversalTranslator.T.pdb

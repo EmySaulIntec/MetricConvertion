@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalTranslator", "UniversalTranslator\UniversalTranslator.csproj", "{0F06A450-F705-45EA-B314-C575556A5E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalTranslator.T", "UniversalTranslator.T\UniversalTranslator.T.csproj", "{9DD6201D-6470-438E-A62E-DAF1B7F704BE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "installerUT", "installerUT\installerUT.vdproj", "{F0A6B063-B6B5-4356-B57E-48B7AE1AB696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F06A450-F705-45EA-B314-C575556A5E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F06A450-F705-45EA-B314-C575556A5E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F06A450-F705-45EA-B314-C575556A5E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F06A450-F705-45EA-B314-C575556A5E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD6201D-6470-438E-A62E-DAF1B7F704BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD6201D-6470-438E-A62E-DAF1B7F704BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD6201D-6470-438E-A62E-DAF1B7F704BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD6201D-6470-438E-A62E-DAF1B7F704BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A6B063-B6B5-4356-B57E-48B7AE1AB696}.Debug|Any CPU.ActiveCfg = Debug
+		{F0A6B063-B6B5-4356-B57E-48B7AE1AB696}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3507B469-EF40-4B42-9A27-2CDBB6B07E4D}
+	EndGlobalSection
+EndGlobal

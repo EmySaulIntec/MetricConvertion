@@ -1,0 +1,13 @@
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\bin\Debug\UniversalTranslator.exe.config
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\bin\Debug\UniversalTranslator.exe
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\bin\Debug\UniversalTranslator.pdb
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\obj\Debug\UniversalTranslator.csproj.CoreCompileInputs.cache
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\obj\Debug\UniversalTranslator.exe
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\obj\Debug\UniversalTranslator.pdb
+D:\INTEC\Tendencias en Desarrollo de aplicaciones\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\obj\Debug\UniversalTranslator.csprojAssemblyReference.cache
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\bin\Debug\UniversalTranslator.exe.config
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\bin\Debug\UniversalTranslator.exe
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\bin\Debug\UniversalTranslator.pdb
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\obj\Debug\UniversalTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\obj\Debug\UniversalTranslator.exe
+C:\Users\Emy Soto\Desktop\MetricConvertion\MetricConvertion\Project\UniversalTranslator\UniversalTranslator\obj\Debug\UniversalTranslator.pdb
