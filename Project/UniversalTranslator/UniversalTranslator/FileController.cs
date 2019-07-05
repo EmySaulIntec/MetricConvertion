@@ -14,10 +14,8 @@ namespace UniversalTranslator
         {
             var result = LoadFile(path);
             if (result.Count() > 0)
-                WriteResult(result, path);
+                WriteResultAndGetConvertion(result, path);
         }
-
-
         public IEnumerable<Entry> LoadFile(string path)
         {
             string[] lines = LoadFilePath(path);
@@ -45,7 +43,6 @@ namespace UniversalTranslator
             }
 
         }
-
 
         private string[] LoadFilePath(string path)
         {
@@ -81,7 +78,6 @@ namespace UniversalTranslator
             return true;
         }
 
-
         private bool IsNumeric(string v)
         {
             if (v == "0")
@@ -91,8 +87,7 @@ namespace UniversalTranslator
             return value != 0;
         }
 
-
-        private void WriteResult(IEnumerable<Entry> result, string path)
+        private void WriteResultAndGetConvertion(IEnumerable<Entry> result, string path)
         {
             var r = result.Select(e => { return $"{e.Value.ToString()},{e.Origin.ToString()},{e.Destiny.ToString()}, {Converter.GetConvertion(e.Origin.ToString(), e.Destiny.ToString(), e.Value)}"; }).ToArray();
 
@@ -107,9 +102,5 @@ namespace UniversalTranslator
             Process.Start(directory);
 
         }
-
-
-
-
     }
 }

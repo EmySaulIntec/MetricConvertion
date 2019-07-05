@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace UniversalTranslator
 {
-
-
     public class Converter
     {
 
